@@ -1,13 +1,13 @@
 :root {
-    --card-front-color: #f1dd2b;
-    --card-back-color: #00F4BF;
+    --card-front-color: #2d2d2d;
+    --card-back-color: #444;
     --card-title-color: gold;
-    --text-color:rgb(240, 139, 7);
+    --text-color: white;
     --footer-color: black;
 }
 
 body {
-    background-image: url(img/every-tyler-album-as-a-wallpaper-v0-llehfn3lg3591.jpg);
+    background-image: url('img/every-tyler-album-as-a-wallpaper-v0-llehfn3lg3591.jpg');
     background-size: cover;
     background-position: center;
     font-family: Arial, Helvetica, sans-serif;
